@@ -1,4 +1,5 @@
 <p align="center"><img src="palavra_main_panels.png" width="600"/></p>
+
 # Personalizing Frozen Vision-Language Representations
 
 
