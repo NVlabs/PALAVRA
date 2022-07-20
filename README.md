@@ -76,3 +76,15 @@ Note that you can also use `--captions_path=../PerVLBenchmark/annotations/deep_f
 For evaluating the semantic segmentation results we used the code provided by the authors of Zabari et al. "Semantic Segmentation In-the-Wild Without Seeing Any Segmentation Examples".
 The authors haven't made their code publicly available yet. So we cannot release yet our corresponding code. We will release our code, once Zabari et al. code becomes publicly available.
 
+## Cite the paper
+If you use the contents of this project, please cite our paper.
+
+    @inproceedings{eccv2022_palavra_cohen,
+     author = {Cohen, Niv and Gal, Rinon and Meirom, Eli A. and Chechik, Gal and Atzmon, Yuval},
+     booktitle = {European Conference on Computer Vision (ECCV) },
+     title = {"This is my unicorn, Fluffy": Personalizing frozen vision-language representationsn},
+     year = {2022}
+    }
+
+For business inquiries, please contact [researchinquiries@nvidia.com](researchinquiries@nvidia.com) <br>
+For press and other inquiries, please contact Hector Marinez at [hmarinez@nvidia.com](hmarinez@nvidia.com)
