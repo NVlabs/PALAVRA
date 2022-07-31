@@ -59,7 +59,7 @@ If you use the contents of this project, please cite our paper.
     @inproceedings{eccv2022_palavra_cohen,
      author = {Cohen, Niv and Gal, Rinon and Meirom, Eli A. and Chechik, Gal and Atzmon, Yuval},
      booktitle = {European Conference on Computer Vision (ECCV) },
-     title = {"This is my unicorn, Fluffy": Personalizing frozen vision-language representationsn},
+     title = {"This is my unicorn, Fluffy": Personalizing frozen vision-language representations},
      year = {2022}
     }
 
